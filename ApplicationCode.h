@@ -8,9 +8,9 @@
 #include "LCD_Driver.h"
 #include "Screen_Out.h"
 #include "Button_Driver.h"
-#include "stm32f4xx_hal.h"
+//#include "stm32f4xx_hal.h"
 
-#include <stdio.h>
+//#include <stdio.h>
 
 /* Define */
 #define NAME_LENGTH    6
