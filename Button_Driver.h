@@ -10,7 +10,7 @@
 
 /* Includes */
 //#include "GPIO_Driver.h"
-#include "stm32f4xx_hal.h"
+//#include "stm32f4xx_hal.h"
 #include "interruptControl.h"
 //#include "ErrorHandling.h" // inclued herre and gyro.h where the inclusion is explained
 
